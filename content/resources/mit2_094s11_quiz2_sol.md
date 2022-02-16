@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains solutions of 2 problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011/908772c840c97dc2eeff60420fbecc93_MIT2_094S11_quiz2_sol.pdf
+file: /media/courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011/908772c840c97dc2eeff60420fbecc93_MIT2_094S11_quiz2_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: MIT2_094S11_quiz2_sol.pdf
 uid: 908772c8-40c9-7dc2-eeff-60420fbecc93
