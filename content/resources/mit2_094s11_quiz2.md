@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 119adcc4-512b-60ff-58e5-020edb2cbdad
 resourcetype: Document
 title: MIT2_094S11_quiz2.pdf
 uid: 61b67590-fd89-4d2b-4a6a-1155263cebed

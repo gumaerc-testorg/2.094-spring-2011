@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e7707337-679b-7b58-99bd-a603ba2bf5f2
 resourcetype: Document
 title: MIT2_094S11_bajoria.pdf
 uid: ae237f42-505b-c4f2-9fda-b8c7aed85518

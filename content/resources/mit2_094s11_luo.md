@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e7707337-679b-7b58-99bd-a603ba2bf5f2
 resourcetype: Document
 title: MIT2_094S11_luo.pdf
 uid: eb744efa-54db-2a3d-586f-249a20e41a60

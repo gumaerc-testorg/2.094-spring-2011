@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: db163640-34a4-ba3f-b39b-c02bc0364372
 resourcetype: Document
 title: MIT2_094S11_demo3.pdf
 uid: 22bffaa3-7d23-32d2-2aa9-e2c4a44d042a

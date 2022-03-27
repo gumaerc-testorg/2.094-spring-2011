@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e7707337-679b-7b58-99bd-a603ba2bf5f2
 resourcetype: Document
 title: Hydrofoil analysis using CFD
 uid: 0d6e6793-659b-8335-6d64-cca862090690

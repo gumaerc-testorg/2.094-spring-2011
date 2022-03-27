@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7523f335-0f6f-63f7-c50c-25d0df143c6a
 resourcetype: Document
 title: MIT2_094S11_hw_5_sol.pdf
 uid: b448f2d6-3494-ee05-650f-f97fc4f467f2
