@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides demonstrations and video lectures on finite element
+  analysis of solids and fluids.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -30,7 +32,7 @@ SIMULATIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Loading a rubber-like material (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_094s11_demo_1))
+Loading a rubber-like material ({{% resource_link f62126a2-092b-7c4c-111b-366cc2f65171 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -60,7 +62,7 @@ Solution to example 4.6 - see textbook, p. 170 and 179
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Convergence: plate with a hole (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_094s11_demo3))
+Convergence: plate with a hole ({{% resource_link 22bffaa3-7d23-32d2-2aa9-e2c4a44d042a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -72,7 +74,7 @@ Convergence: plate with a hole (![This resource may not render correctly in a sc
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Various problems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_094s11_demo4))
+Various problems ({{% resource_link 52437bbc-7ea3-f5d9-6205-501cdd2bb7d0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -95,4 +97,4 @@ Steel plate with a hole ([AVI - 8 MB](/ans7870/2/2.094/s08/demo4/platehole_steel
 Video Lectures
 --------------
 
-[_Finite Element Procedures for Solids and Structures_](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010) presents two video courses by Prof. Bathe, recommended for further study on the topics of linear and nonlinear finite element analysis.
+[_Finite Element Procedures for Solids and Structures_](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010) presents two video courses by Prof. Bathe, recommended for further study on the topics of linear and nonlinear finite element analysis.

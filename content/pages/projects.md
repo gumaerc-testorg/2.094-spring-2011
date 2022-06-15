@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on required term project for the course,
+  including suggested projects, guidelines, and examples of student work.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -23,7 +25,7 @@ Some suggested projects:
 7.  Analysis of a forced or natural convection fluid flow problem.
 8.  Analysis of a fluid-structure interaction problem.
 9.  Analysis of a problem related to your research.
-10.  Develop a nonlinear finite element program based on STAP. (See [textbook]({{< baseurl >}}/pages/syllabus))
+10.  Develop a nonlinear finite element program based on STAP. (See {{% resource_link 0491563b-205c-806a-31f9-c819bfdf2041 "textbook" %}})
 
 **Note:** Please choose a (tractable) problem that you can analyze in depth in the very limited time available.
 
@@ -41,8 +43,8 @@ Student Reports
 
 The following student projects from the Spring 2008 class are offered as examples of the work expected in response to this assignment. All work is presented courtesy of the student named, and is used with their permission.
 
-Ofer Aharon, "Hydrofoil Analysis using CFD." ([PDF - 1.3MB]({{< baseurl >}}/resources/mit2_094s11_aharon))
+Ofer Aharon, "Hydrofoil Analysis using CFD." ({{% resource_link 0d6e6793-659b-8335-6d64-cca862090690 "PDF - 1.3MB" %}})
 
-Ankur Bajoria, "Analyzing Wind Flow Around the Square Plate using ADINA." ([PDF]({{< baseurl >}}/resources/mit2_094s11_bajoria))
+Ankur Bajoria, "Analyzing Wind Flow Around the Square Plate using ADINA." ({{% resource_link ae237f42-505b-c4f2-9fda-b8c7aed85518 "PDF" %}})
 
-Meng Luo, "Ductile Fracture Characterization of an Aluminum Alloy Sheet using Numerical Simulations and Tests." ([PDF]({{< baseurl >}}/resources/mit2_094s11_luo))
+Meng Luo, "Ductile Fracture Characterization of an Aluminum Alloy Sheet using Numerical Simulations and Tests." ({{% resource_link eb744efa-54db-2a3d-586f-249a20e41a60 "PDF" %}})
