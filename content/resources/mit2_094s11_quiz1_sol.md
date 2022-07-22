@@ -5,6 +5,7 @@ file: /courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Quiz #1 - Solution'
 uid: 022cc7b9-8bb3-879b-cae8-86a8d878f3d8
 ---
 Solutions to a quiz on finite element analysis of solids and fluids.
-

@@ -7,6 +7,7 @@ file: /courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Hydrofoil analysis using CFD
 uid: 0d6e6793-659b-8335-6d64-cca862090690
 ---
 Example of a student project from the Spring 2008 version of the course. This project describes the influence of two sequential foils on each other when are very close horizontally.
-

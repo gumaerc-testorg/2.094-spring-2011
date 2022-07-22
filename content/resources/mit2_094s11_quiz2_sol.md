@@ -5,6 +5,7 @@ file: /courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT2_094S11_quiz2_sol.pdf
 uid: 908772c8-40c9-7dc2-eeff-60420fbecc93
 ---
 This resource contains solutions of 2 problems.
-
