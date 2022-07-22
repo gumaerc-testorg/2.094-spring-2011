@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture notes originally prepared for the 2008 version of the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 74548fa7-e68f-8a0b-66e3-27080ed6f401
 ---
 
-The lecture notes on this page were originally prepared for the 2008 course. They were written by the teaching assistant, Do-Nyun Kim, and typed by Dayán Páez. For convenience, the entire set of lectures is also available as a single download: ([PDF - 2.0MB]({{< baseurl >}}/resources/mit2_094s11_2094_lectures))
+The lecture notes on this page were originally prepared for the 2008 course. They were written by the teaching assistant, Do-Nyun Kim, and typed by Dayán Páez. For convenience, the entire set of lectures is also available as a single download: ({{% resource_link 116df281-a310-a9cc-dbbb-8dd7ec7a2d6e "PDF - 2.0MB" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -30,7 +35,7 @@ NOTES
 Large displacement analysis of solids/structures
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec1))
+({{% resource_link eb0ef0cb-8398-52aa-2ec5-3302d94caa0c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ Large displacement analysis of solids/structures
 Finite element formulation of solids and structures
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec2))
+({{% resource_link c21d8369-be8e-2005-7a16-470585714632 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ Finite element formulation of solids and structures
 Finite element formulation of solids and structures (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec3))
+({{% resource_link 23d142a0-17e8-59eb-3932-a4f9e9c0f58c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +71,7 @@ Finite element formulation of solids and structures (cont.)
 Finite element formulation of solids and structures (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec4))
+({{% resource_link 671d9aa6-7b25-f8a4-06db-dd5e7d9eb479 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ Finite element formulation of solids and structures (cont.)
 Finite element displacement formulation (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec5))
+({{% resource_link 510d9cba-249b-105a-d83a-2a80d928256d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +95,7 @@ Finite element displacement formulation (cont.)
 Finite element formulation, example, convergence
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec6))
+({{% resource_link 0adb6729-1b36-7c1e-53b9-b648e1b3029f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ Finite element formulation, example, convergence
 Isoparametric elements
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec7))
+({{% resource_link 0f9ca206-dde4-1572-0124-b572746c15f5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +119,7 @@ Isoparametric elements
 Convergence of displacement-based FEM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec8))
+({{% resource_link b5c2ea4c-1fd8-c924-136f-05e1d44b2545 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +131,7 @@ Convergence of displacement-based FEM
 u/p formulation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec9))
+({{% resource_link 6d04b6d4-bedc-d1c0-a2d1-55c81cf5ea86 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +143,7 @@ u/p formulation
 Finite element large deformation / general nonlinear analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec10))
+({{% resource_link a91eeaeb-34cf-d911-cef4-027a3bea6b05 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +155,7 @@ Finite element large deformation / general nonlinear analysis
 Deformation, strain, and stress tensors
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec11))
+({{% resource_link a22e7ac6-2342-e94a-6b66-cfffb76b7a7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +167,7 @@ Deformation, strain, and stress tensors
 Total Lagrangian formulation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec12))
+({{% resource_link 9cf1f65c-98d5-1a5d-b22b-f1fd45347ad0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +179,7 @@ Total Lagrangian formulation
 Total Lagrangian formulation (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec13))
+({{% resource_link 484bed6d-ca1e-54c5-6a6b-993cdf635560 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +191,7 @@ Total Lagrangian formulation (cont.)
 Total Lagrangian formulation (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec14))
+({{% resource_link bbba7e55-a52e-df99-0e04-67a2995af23b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +203,7 @@ Total Lagrangian formulation (cont.)
 Field problems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec15))
+({{% resource_link c2810a0c-8fa7-6e65-93ca-2f1327f11bd7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +215,7 @@ Field problems
 Finite element analysis of Navier-Stokes fluids
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec16))
+({{% resource_link 95700fb9-3908-4689-1e38-b57bf75149e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +227,7 @@ Finite element analysis of Navier-Stokes fluids
 Incompressible fluid flow and heat transfer (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec17))
+({{% resource_link e31b2dbc-8780-c2c0-c4c1-6d4861d36302 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +239,7 @@ Incompressible fluid flow and heat transfer (cont.)
 Solution of finite element equations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec18))
+({{% resource_link 5bbd789c-4c00-8f43-a78f-fc97d314ed5d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +251,7 @@ Solution of finite element equations
 Slender structures
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec19))
+({{% resource_link 765782f5-a533-9e5f-42ef-e6de04f207b3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +263,7 @@ Slender structures
 Beams, plates, and shells
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec20))
+({{% resource_link 15e77256-897a-0d1d-f67c-6f5fbbf60e80 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,7 +275,7 @@ Beams, plates, and shells
 Plates and shells
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_094s11_lec21))
+({{% resource_link 97bfcf64-fe6a-51ad-f50d-5d6bec0bde54 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
