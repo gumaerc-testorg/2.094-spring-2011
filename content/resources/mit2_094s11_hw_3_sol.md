@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains the solutions of the 3 problems of homework 3. '
 file: /courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011/b7f83d29c1bba877d66e71cc26a4f32c_MIT2_094S11_hw_3_sol.pdf
+file_size: 536521
 file_type: application/pdf
 learning_resource_types:
 - Assignments

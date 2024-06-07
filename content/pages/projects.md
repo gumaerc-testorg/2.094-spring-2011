@@ -12,7 +12,7 @@ uid: e7707337-679b-7b58-99bd-a603ba2bf5f2
 Term Project
 ------------
 
-Every student is required to complete a term project. The objective of this task is that each student obtains hands-on experience in solving analysis problems using a typical finite element code. The term project should address a problem solution in solids and structures, fluid flows or fluid-structure interactions using {{% resource_link "cfad136c-0cc0-4b83-935b-7e7621db24b3" "ADINA" %}}.
+Every student is required to complete a term project. The objective of this task is that each student obtains hands-on experience in solving analysis problems using a typical finite element code. The term project should address a problem solution in solids and structures, fluid flows or fluid-structure interactions using [ADINA](http://www.adina.com/).
 
 Some suggested projects:
 
