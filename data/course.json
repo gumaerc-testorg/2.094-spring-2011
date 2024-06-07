@@ -40,7 +40,7 @@
     "website": "2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011"
   },
   "course_title": "Finite Element Analysis of Solids and Fluids II",
-  "course_description": "This course presents finite element theory and methods for general linear and nonlinear analyses. Reliable and effective finite element procedures are discussed with their applications to the solution of general problems in solid, structural, and fluid mechanics, heat and mass transfer, and fluid-structure interactions. The governing continuum mechanics equations, conservation laws, virtual work, and variational principles are used to establish effective finite element discretizations and the stability, accuracy, and convergence are discussed. The homework and the student-selected term project using the general-purpose finite element analysis program {{% resource_link \"cfad136c-0cc0-4b83-935b-7e7621db24b3\" \"ADINA\" %}} are important parts of the course.\n",
+  "course_description": "This course presents finite element theory and methods for general linear and nonlinear analyses. Reliable and effective finite element procedures are discussed with their applications to the solution of general problems in solid, structural, and fluid mechanics, heat and mass transfer, and fluid-structure interactions. The governing continuum mechanics equations, conservation laws, virtual work, and variational principles are used to establish effective finite element discretizations and the stability, accuracy, and convergence are discussed. The homework and the student-selected term project using the general-purpose finite element analysis program [ADINA](http://www.adina.com/) are important parts of the course.\n",
   "department_numbers": [
     "2"
   ],
