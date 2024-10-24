@@ -3,7 +3,7 @@ content_type: resource
 description: Example of a student project from the Spring 2008 version of the course.
   This project describes the influence of two sequential foils on each other when
   are very close horizontally.
-file: /courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011/0d6e6793659b83356d64cca862090690_MIT2_094S11_aharon.pdf
+file: /ol-ocw-studio-app/courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011/0d6e6793659b83356d64cca862090690_MIT2_094S11_aharon.pdf
 file_size: 1332363
 file_type: application/pdf
 learning_resource_types:
