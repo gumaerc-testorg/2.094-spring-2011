@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains demonstrations about convergence: plate with a hole.'
-file: /courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011/22bffaa37d2332d22aa9e2c4a44d042a_MIT2_094S11_demo3.pdf
+file: /ol-ocw-studio-app/courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011/22bffaa37d2332d22aa9e2c4a44d042a_MIT2_094S11_demo3.pdf
 file_size: 364256
 file_type: application/pdf
 learning_resource_types: []
