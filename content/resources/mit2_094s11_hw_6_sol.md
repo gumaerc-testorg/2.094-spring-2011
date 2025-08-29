@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains the solutions of the 2 problems of homework 6. '
-file: /courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011/0cf0e6068b5b3646f628dbad1e01c660_MIT2_094S11_hw_6_sol.pdf
+file: /ol-ocw-studio-app/courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011/0cf0e6068b5b3646f628dbad1e01c660_MIT2_094S11_hw_6_sol.pdf
 file_size: 197087
 file_type: application/pdf
 learning_resource_types:

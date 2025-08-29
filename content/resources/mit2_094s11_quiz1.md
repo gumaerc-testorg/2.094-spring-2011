@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 2 quiz problems for the course.
-file: /courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011/5ef8103a6f9388d23b69936233e12f36_MIT2_094S11_quiz1.pdf
+file: /ol-ocw-studio-app/courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011/5ef8103a6f9388d23b69936233e12f36_MIT2_094S11_quiz1.pdf
 file_size: 105606
 file_type: application/pdf
 learning_resource_types:
