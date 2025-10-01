@@ -76,7 +76,7 @@ Chapelle, D., and K. J. Bathe. _The Finite Element Analysis of Shells – Fundam
 Computer Assignments
 --------------------
 
-You will not be required to develop a computer program. However, some homework will require that you use the graphical user interface of the finite element program system [ADINA](http://www.adina.com/). Please see [this page](http://en.wikipedia.org/wiki/List_of_finite_element_software_packages) for a list of alternative finite element analysis packages.
+You will not be required to develop a computer program. However, some homework will require that you use the graphical user interface of the finite element program system {{% resource_link "814479e9-8a79-4b8a-8629-d6ba81bde0bf" "ADINA" %}}. Please see {{% resource_link "62fd45ba-d9de-4317-9c26-d965b5b3c64e" "this page" %}} for a list of alternative finite element analysis packages.
 
 Additional Resources
 --------------------
